@@ -1,0 +1,8 @@
+/config.ini
+/venv
+/files
+/certs
+__pycache__
+.vscode
+.pytest_cache
+.mypy_cache
